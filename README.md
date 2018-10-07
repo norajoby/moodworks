@@ -3,7 +3,7 @@
 Created: 05 September 2018
 Last updated: 07 October 2018
 
-#Solution Manual:
+# Solution Manual:
 
 1. What is Moodworks?
 
@@ -37,4 +37,11 @@ The weightage and number of tweets fetched can be optimised according to perform
 
 MoodWorks can be used as a friendly tool for keeping a track of people's sentiment and also allowing them to get a more diverse and customised  experience. Continuous monitoring of an user using MoodWorks can be used for identifying traits of depression in user behaviours. Growing self awareness of negative sentiments in one person is the best method to help him on avoiding them.
 Tracking of users and associated functionalities is currently removed, since MoodWorks is now released for Public Access.
+
+# Documentation
+The idea:
+https://docs.google.com/document/d/1uWrIDC5otDsZ_2aolNyIwRJXxM5byvcslAFCT--KhHs/edit?usp=sharing
+Powerpoint presentation:
+https://docs.google.com/presentation/d/1KlYtX9OWuvmy0UiCsRMvjP-Bvvc5eISQLGUox4tN_BE/edit?usp=sharing
+Video link:
 
