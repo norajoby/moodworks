@@ -50,3 +50,4 @@ https://docs.google.com/presentation/d/1KlYtX9OWuvmy0UiCsRMvjP-Bvvc5eISQLGUox4tN
 
 Video link:
 
+https://drive.google.com/open?id=1ler-1Q-8YoxdEqXTxvYMqnM1vlUbBwbd
