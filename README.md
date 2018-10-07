@@ -25,7 +25,7 @@ MoodWorks will greet you according to the time of the day and prompt you with a 
 
 MoodWorks can also be installed and used on localhost by running python hello.py in terminal.
 
-3.How MoodWorks Works?
+3. How MoodWorks Works?
 
 MoodWorks use Twitter API and IBM NLP API for the computation. It works on Flask Micro Web Framework of Python.
 
