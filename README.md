@@ -3,9 +3,10 @@
 Created: 05 September 2018
 Last updated: 07 October 2018
 
-Solution Manual:
+#Solution Manual:
 
 1. What is Moodworks?
+
 Moodworks is a system that tracks your mood according to your tweet data and feedback response and dynamically helps you deal with it by providing multiple options to help recover from negative emotions, or celebrate the positive emotions!
 
 2. How to use MoodWorks?
@@ -29,7 +30,7 @@ MoodWorks can also be installed and used on localhost by running python hello.py
 
 MoodWorks use Twitter API and IBM NLP API for the computation. It works on Flask Micro Web Framework of Python.
 
-MoodWorks fetch last five tweets of the user and user response about his feelings, both are scrubbed using data-filtration algorithm for improved sentimental analysis. IBM NLP services is used to process the tweets and user response to create a sentiment matrix of the user. A default weightage of 1:1 is assigned for sentiment matrix derived from tweets and user response.
+MoodWorks fetches last five tweets of the user and user response about his feelings, both are scrubbed using data-filtration algorithm for improved sentimental analysis. IBM NLP services is used to process the tweets and user response to create a sentiment matrix of the user. A default weightage of 1:1 is assigned for sentiment matrix derived from tweets and user response.
 The weightage and number of tweets fetched can be optimised according to performance and user behavioral trend.
 
 4. How MoodWorks can help?
