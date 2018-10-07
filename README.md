@@ -1,8 +1,7 @@
 # Moodworks :: The repository for the IBM Hack Challenge :coffee:
-# Moodworks :: The repository for the IBM Hack Challenge :coffee:
 # Authors: Sebin Sabu and Nora Elizabeth Joby (Team K15)
-# Created: 05 September 2018
-# Last updated: 07 October 2018
+Created: 05 September 2018
+Last updated: 07 October 2018
 
 Solution Manual:
 
