@@ -39,9 +39,14 @@ MoodWorks can be used as a friendly tool for keeping a track of people's sentime
 Tracking of users and associated functionalities is currently removed, since MoodWorks is now released for Public Access.
 
 # Documentation
+
 The idea:
+
 https://docs.google.com/document/d/1uWrIDC5otDsZ_2aolNyIwRJXxM5byvcslAFCT--KhHs/edit?usp=sharing
+
 Powerpoint presentation:
+
 https://docs.google.com/presentation/d/1KlYtX9OWuvmy0UiCsRMvjP-Bvvc5eISQLGUox4tN_BE/edit?usp=sharing
+
 Video link:
 
