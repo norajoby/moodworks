@@ -45,9 +45,9 @@ Our Unique Value points (Key Value Propositions) are:
 * Dynamically responding user interface according to time of the day, your mood etc.
 * Randomised response system gives you a new list of suggestions each time
 * A list of choices to choose from , for each mood detected
-* Ready to deploy and simple User Interface
-* Easy to use
-* Robustness to work even without twitter ID
+* Ready to deploy (User can deploy anytime he/she wants to)
+* Easy to use and simple User Interface
+* Robustness to work even without twitter ID/account
 
 
 # Documentation
